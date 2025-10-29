@@ -1,1 +1,3 @@
 soy el texto2
+
+He puesto mas texto en texto2.txt
